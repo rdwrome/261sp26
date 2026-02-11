@@ -16,11 +16,11 @@ This is an introductory survey course of Python, HTML, JavaScript, and SQL.
 - midterm presentations
 - html & css
 - html group project & intro to python
+- intro to machine learning/artificial intelligence
+- final project meetings 
 - python - lists
 - python - libraries
 - python - webservers
-- (final project meetings if time allows)
-- intro to machine learning/artificial intelligence
 - final project presentations
 
 ## Class Resources
@@ -80,10 +80,10 @@ Final Project | 30%
 - Email: [rrome@berklee.edu](rrome@berklee.edu)
 - Phone: 336.355.1993
 - Office Hours:
-	- Mondays 1-3pmEST
+	- Mondays 2-4pmEST
 	- Meetings will *always* take place in person at 1126 Boylston Room 208 (never on zoom).
 	- Walk-ins welcome, but preference is given to those who make [appointments here.](https://calendar.app.google/y89Au3KaaYXY5vJ56)
-	- If you are not available during my office hour, you are welcome to use Berklee Google Calendar (be signed into your own account and search for "r.d.w.rome") to look at my whole calendar and make an appointment that way. It is up-to-date; no need to email me. Just drop the appointment in my calendar.
+	- If you are not available during my office hour, you are welcome to use Berklee Google Calendar (be signed into your own account and search for "r.d.w.rome") to look at my whole calendar and make an appointment more than 24 hours in advance that way. It is up-to-date; no need to email me. Just drop the appointment in my calendar.
 
 ## Policies
 ### Communication
