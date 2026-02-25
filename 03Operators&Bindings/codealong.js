@@ -70,7 +70,7 @@ console.log(canRide);
 
 // **NaN and Empty Values**
 console.log(typeof NaN);        // "number" (special case, but means Not-a-Number)
-console.log(typeof null);       // "object" (historical JavaScript quirk)
+console.log(typeof null);       // "object" (historical javaScript quirk)
 console.log(typeof undefined);  // "undefined" (a binding that has not been assigned a value)
 
 // *Bindings (Variables)*
@@ -82,11 +82,10 @@ console.log(area);
 
 // *Typecasting (Converting Data Types)*
 let num = 100;
-console.log(String(num), typeof String(num)); // Convert number to string
-
-let string = "45";
-console.log(parseInt(string), typeof parseInt(string)); // Convert string to integer
-console.log(parseFloat("56.83"), typeof parseFloat("56.83")); // Convert string to float
+console.log((num), typeof String(num)); // Convert number to string
+//
+let cheese = "45";
+console.log((cheese), typeof parseInt(cheese))
 
 // *Floating point precision handling*
 let z = 3.141592653589793;
