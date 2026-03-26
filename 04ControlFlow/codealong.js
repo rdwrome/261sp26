@@ -82,11 +82,9 @@ for (let i = 1500; i <= 2700; i++) {
   }
 }
 
-// pyramid
-for (let row = "#"; row.length < 8; row += "#") // .js method length
-  console.log(row);
-
 // Nested for-loops
+//FIX THIS SECTION, make it in-class project
+
 //chessboard
 let size = 8;
 let board = " ";
@@ -108,11 +106,15 @@ for (let i = 0; i < 10; i++) {
 	let row = "\n"; 
   for (let j = 0; j < 10; j++) {
     if (j >= i) {
-		row += j.toString(); 
+		row += j.toString(); //.js method
     }
   }
   console.log(row);
 }
+
+// pyramid - MAKE IT LEAN TO THE RIGHT WITH ANOTHER NESTED FOR-LOOP
+for (let row = "#"; row.length < 8; row += "#") // .js method
+  console.log(row);
 
 // Recursion
 // - solve a problem with itself!

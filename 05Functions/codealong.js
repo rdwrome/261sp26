@@ -6,8 +6,6 @@
 // So far we've mostly using functions built-in to the language, now we're going to write our own functions! like neologisms! like 'truthiness'!
 
 
-// ALL THIS IN https://editor.p5js.org/
-
 // Function with one argument/parameter
 function cube(n) {
   // Returns the cube of the input number n
@@ -62,6 +60,8 @@ function repeatLyrics() {
   printLyrics();
 }
 repeatLyrics();
+
+// RACHEL STOPPED HERE
 
 // Function with if condition
 function minimum(x, y) {

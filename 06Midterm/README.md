@@ -7,7 +7,7 @@ Sketch your visual object using a pen and graph paper. Remember that your visual
 
 ![](./img/MusicalNote.png)
 
-It is recommended that your sketch uses b2d primitive shapes, such as circle, ellipse, rectangle, square, triangle, and quadrilateral. Once you are done with your design, take a picture and include it in your mid-term project folder for submission with the name `Phase1` in it.
+It is recommended that your sketch uses 2d primitive shapes, such as circle, ellipse, rectangle, square, triangle, and quadrilateral. Once you are done with your design, take a picture and include it in your mid-term project folder for submission with the name `Phase1` in it.
 
 #### Sketch Requirements
 - Your sketch
