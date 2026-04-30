@@ -64,6 +64,7 @@ xcode-select --install
 **Running Python: world.py**
   - CLI  
   - IDE
+print("hello, world")
 
 ## CODE ALONG
 ```Python
